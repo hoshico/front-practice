@@ -1,0 +1,11 @@
+h1 {
+  color: red;
+  background-color: yellow;
+}
+
+@media screen and (mix-width: 601px) {
+  h1 {
+    color: blue;
+  }
+}
+/*# sourceMappingURL=style.css.map */
